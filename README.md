@@ -37,6 +37,6 @@ List of iOS apps I create(d) to learn Swift. This project is inspired by [100 da
 MIT license
 
 ## Reach me
-Twitter: [jjude](http://twitter.com/jjude)
-Website: [Certainties & Serendipities](http://jjude.com/)
+Twitter: [jjude](http://twitter.com/jjude)   
+Website: [Certainties & Serendipities](http://jjude.com/)   
 Tech Blog: [finally](http://tech.jjude.com)
