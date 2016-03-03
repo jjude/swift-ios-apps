@@ -2,7 +2,11 @@
 
 List of iOS apps I create(d) to learn Swift. This project is inspired by [100 days of Swift](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63) by [Sam Lu](https://twitter.com/samvlu) and [30 days of Swift](https://github.com/allenwong/30DaysofSwift) by [Allen Wang](https://twitter.com/creativewang).
 
-1. Tap Counter
+1. Tap Counter : An app to count taps on a button. It can reset the counter too.
+
+![TapCounter](http://cdn.jjude.com/finally/tapcounter.gif)
+
+
 2. iAd
 3. Tip Calculator
 4. Basic Tableview
