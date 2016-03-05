@@ -2,12 +2,16 @@
 
 List of iOS apps I create(d) to learn Swift. This project is inspired by [100 days of Swift](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63) by [Sam Lu](https://twitter.com/samvlu) and [30 days of Swift](https://github.com/allenwong/30DaysofSwift) by [Allen Wang](https://twitter.com/creativewang).
 
+## Project Index & GIF Showcase
+
 1. Tap Counter : An app to count taps on a button. It can reset the counter too.
 
 ![TapCounter](http://cdn.jjude.com/finally/tapcounter.gif)
 
+2. Simple StopWatch: Start & stop timer.
 
-2. iAd
+![StopWatch](http://cdn.jjude.com/finally/stopwatch.gif)
+
 3. Tip Calculator
 4. Basic Tableview
 5. Getting current date & time
@@ -36,6 +40,8 @@ List of iOS apps I create(d) to learn Swift. This project is inspired by [100 da
 28. Limit characters
 29. Mosaic layout
 30. Core data app
+31. Map app
+32. iAd
 
 ## License
 MIT license
