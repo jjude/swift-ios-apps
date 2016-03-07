@@ -4,15 +4,18 @@ List of iOS apps I create(d) to learn Swift. This project is inspired by [100 da
 
 ## Project Index & GIF Showcase
 
-1. Tap Counter : An app to count taps on a button. It can reset the counter too.
+Project #1:  Tap Counter : An app to count taps on a button. It can reset the counter too.
 
 ![TapCounter](http://cdn.jjude.com/finally/tapcounter.gif)
 
-2. Simple StopWatch: Start & stop timer.
+Project #2. Simple StopWatch: Start & stop timer.
 
 ![StopWatch](http://cdn.jjude.com/finally/stopwatch.gif)
 
-3. Tip Calculator
+Project #3. Tip Calculator : Calculate tip and split the bill among friends
+
+![TipCalculator](http://cdn.jjude.com/finally/tipcalculator.gif)
+
 4. Basic Tableview
 5. Getting current date & time
 6. Passing data to another view
